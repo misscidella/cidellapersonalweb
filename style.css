@@ -126,6 +126,7 @@ nav ul li a:hover {
 .about-container {
     display: flex;
     flex-wrap: wrap;
+    padding-left: 5vw;
     gap: 20px;
     justify-content: center;
     align-items: center;
