@@ -13,4 +13,4 @@ about.addEventListener("click", scrollToSection("about-section"));
 projects.addEventListener("click", scrollToSection("projects-section"));
 contact.addEventListener("click", scrollToSection("contact-section"));
 home.addEventListener("click", scrollToSection("home-section"));
-homeButton.addEventListener("click", scrollToSection("about-section"));
+
